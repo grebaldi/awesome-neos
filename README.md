@@ -5,7 +5,7 @@
 > A curated list of awesome resources and community packages for Neos CMS and Flow Framework
 
 <div style="text-align: center; margin: 20px 0;">
-![Neos](https://raw.githubusercontent.com/neos/brand/master/logos/Neos/neos_primary.png)
+<img src="https://raw.githubusercontent.com/neos/brand/master/logos/Neos/neos_primary.png"/>
 </div>
 
 Neos CMS is a modern Content Management Platform built on its sibling Flow Framework.
