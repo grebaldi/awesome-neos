@@ -30,6 +30,7 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 1. [Tutorials](#tutorials)
 1. [Talks](#talks)
 1. [Community Packages](#community-packages)
+1. [User Stories - Blog Posts](#user-stories-blog-posts)
 
 ## Tutorials
 
@@ -73,6 +74,11 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 > Neos package that helps you to render lists of things
 
 **Install:** `composer require flowpack/listable`
+
+
+## User Stories - Blog Posts
+
+* [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
 
 ## License
 
