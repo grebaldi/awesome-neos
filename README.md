@@ -23,6 +23,8 @@ This list provides resources and information around Neos CMS and its community.
 
 **If you have a suggestion for this list, please feel free to open a PR for it. Have a look at the [Contribution Guidelines](./CONTRIBUTING.md) first ;)**
 
+Besides that, it's generally worth to take a look at the [PR section](https://github.com/grebaldi/awesome-neos/pulls). If you want to support a suggestion that has not yet been merged, give it a :+1:. Comments and discussion are also very welcome.
+
 ## Contents
 
 1. [Tutorials](#tutorials)
