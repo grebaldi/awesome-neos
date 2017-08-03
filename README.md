@@ -30,7 +30,7 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 1. [Tutorials](#tutorials)
 1. [Talks](#talks)
 1. [Community Packages](#community-packages)
-1. [User Stories - Blog Posts](#user-stories-blog-posts)
+1. [User Stories - Blog Posts](#user-stories---blog-posts)
 
 ## Tutorials
 
