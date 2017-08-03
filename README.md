@@ -72,6 +72,16 @@ This list provides resources and information around Neos CMS and its community.
 
 **Install:** `composer require flowpack/listable`
 
+#### [Sitegeist.Monocle](https://github.com/sitegeist/Sitegeist.Monocle)
+
+> A living styleguide for Neos
+
+**Install:** `composer require sitegeist/monocle`
+
+**Author(s):** [Martin Ficzel](https://github.com/mficzel), [Wilhelm Behncke](https://github.com/grebaldi)
+
+**Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
