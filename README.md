@@ -75,6 +75,12 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Install:** `composer require flowpack/listable`
 
+#### [Gerdemann.ReCAPTCHA](https://packagist.org/packages/gerdemann/recaptcha)
+
+> Neos packages that provides a Google Invisible ReCAPTCHA form element.
+
+**Install:** `composer require gerdemann/recaptcha`
+
 
 ## User Stories - Blog Posts
 
