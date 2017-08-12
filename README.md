@@ -23,11 +23,14 @@ This list provides resources and information around Neos CMS and its community.
 
 **If you have a suggestion for this list, please feel free to open a PR for it. Have a look at the [Contribution Guidelines](./CONTRIBUTING.md) first ;)**
 
+Besides that, it's generally worth to take a look at the [PR section](https://github.com/grebaldi/awesome-neos/pulls). If you want to support a suggestion that has not yet been merged, give it a :+1:. Comments and discussion are also very welcome.
+
 ## Contents
 
 1. [Tutorials](#tutorials)
 1. [Talks](#talks)
 1. [Community Packages](#community-packages)
+1. [User Stories - Blog Posts](#user-stories---blog-posts)
 
 ## Tutorials
 
@@ -72,6 +75,12 @@ This list provides resources and information around Neos CMS and its community.
 
 **Install:** `composer require flowpack/listable`
 
+#### [Gerdemann.ReCAPTCHA](https://packagist.org/packages/gerdemann/recaptcha)
+
+> Neos packages that provides a Google Invisible ReCAPTCHA form element.
+
+**Install:** `composer require gerdemann/recaptcha`
+
 #### [Sitegeist.Monocle](https://github.com/sitegeist/Sitegeist.Monocle)
 
 > A living styleguide for Neos
@@ -81,6 +90,10 @@ This list provides resources and information around Neos CMS and its community.
 **Author(s):** [Martin Ficzel](https://github.com/mficzel), [Wilhelm Behncke](https://github.com/grebaldi)
 
 **Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
+
+## User Stories - Blog Posts
+
+* [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
 
 ## License
 
