@@ -39,6 +39,7 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 1. [2014](#2014---tutorials)
 1. [2015](#2015---tutorials)
 1. [2016](#2016---tutorials)
+1. [2017](#2017---tutorials)
 
 #### 2014 - Tutorials
 
@@ -56,6 +57,10 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 * [Caching in Neos: Two Years Past](http://dimaip.github.io/2016/12/12/caching-2/) by Dmitri Pisarev, 2016
 * [Logicless templates, smart Fusion objects](http://dimaip.github.io/2016/10/21/logicless-templates-with-fusion/) by Dmitri Pisarev, 2016
+
+#### 2017 - Tutorials
+
+* [How To Install Neos CMS On CentOS 7](https://www.linuxhelp.com/how-to-install-neos-cms-on-centos-7/) by Caden, 2017
 
 ### Videos
 
