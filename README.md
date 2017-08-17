@@ -75,6 +75,7 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 * [Neos Fusion tips](https://www.youtube.com/watch?v=7ujunXKFDRg&list=PL8hH9P--o4jL-K-33hHiC-n5BGZ3MS6KE) (Playlist) by Dmitri Pisarev, 2017
 * [The Neos Fusion Rendering Layer](https://www.youtube.com/watch?v=wpjEIP41048) by Sebastian Kurfürst, 2017
+* [Neos Video Tutorial](https://www.youtube.com/watch?v=h3dyEUOeSz8&list=PL6XQ4CH3N4_FW9m8hho9VIvkmNnaGjxda) by Bastian Heist, 2017
 
 ## Talks
 
