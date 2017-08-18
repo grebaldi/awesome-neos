@@ -121,6 +121,16 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
 
+#### [Sitegeist.Monocle](https://github.com/sitegeist/Sitegeist.Monocle)
+
+> A living styleguide for Neos
+
+**Install:** `composer require sitegeist/monocle`
+
+**Author(s):** [Martin Ficzel](https://github.com/mficzel), [Wilhelm Behncke](https://github.com/grebaldi)
+
+**Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
+
 ## User Stories - Blog Posts
 
 * [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
