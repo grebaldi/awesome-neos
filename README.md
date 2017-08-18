@@ -36,22 +36,52 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 ### Written
 
-* [Caching in Neos: examples and gothchas](http://dimaip.github.io/2015/04/18/caching-typoscript/) by Dmitri Pisarev, 2015
-* [Caching in Neos: Two Years Past](http://dimaip.github.io/2016/12/12/caching-2/) by Dmitri Pisarev, 2016
-* [Logicless templates, smart Fusion objects](http://dimaip.github.io/2016/10/21/logicless-templates-with-fusion/) by Dmitri Pisarev, 2016
-* [Building a Rich Content API with Neos for your React App](http://dimaip.github.io/2015/11/15/react-neos/) by Dmitri Pisarev, 2015
+1. [2014](#2014---tutorials)
+1. [2015](#2015---tutorials)
+1. [2016](#2016---tutorials)
+1. [2017](#2017---tutorials)
+
+#### 2014 - Tutorials
+
 * [Hitchhiker's guide to TypoScript 2 - Part 1](http://learn-neos.com/blog/hitchhikers-guide-to-typoscript-2-part1.html) by Christopher Hlubek, 2014
 * [Hitchhiker's guide to TypoScript 2 - Part 2](http://learn-neos.com/blog/hitchhiker-s-guide-to-typoscript-part-2.html) by Christopher Hlubek, 2014
 * [TypoScript 2 In Action - Part 1](https://learn-neos.com/blog/typoscript-2-in-action-part-1.html) by Christopher Hlubek, 2014
 * [TypoScript 2 In Action - Part 2](https://learn-neos.com/blog/typoscript-2-in-action-part-2.html) by Christopher Hlubek, 2014
 
+#### 2015 - Tutorials
+
+* [Caching in Neos: examples and gothchas](http://dimaip.github.io/2015/04/18/caching-typoscript/) by Dmitri Pisarev, 2015
+* [Building a Rich Content API with Neos for your React App](http://dimaip.github.io/2015/11/15/react-neos/) by Dmitri Pisarev, 2015
+
+#### 2016 - Tutorials
+
+* [Caching in Neos: Two Years Past](http://dimaip.github.io/2016/12/12/caching-2/) by Dmitri Pisarev, 2016
+* [Logicless templates, smart Fusion objects](http://dimaip.github.io/2016/10/21/logicless-templates-with-fusion/) by Dmitri Pisarev, 2016
+
+#### 2017 - Tutorials
+
+* [How To Install Neos CMS On CentOS 7](https://www.linuxhelp.com/how-to-install-neos-cms-on-centos-7/) by Caden, 2017
+
 ### Videos
+
+1. [2016](#2016---videos)
+1. [2017](#2017---videos)
+
+#### 2016 - Videos
+
+* [Neos: from 0 to live in 20 minutes](https://www.youtube.com/watch?v=NCb1-G4KF3g) by Bastian Heist, 2016
+
+#### 2017 - Videos
 
 * [Neos Fusion tips](https://www.youtube.com/watch?v=7ujunXKFDRg&list=PL8hH9P--o4jL-K-33hHiC-n5BGZ3MS6KE) (Playlist) by Dmitri Pisarev, 2017
 * [The Neos Fusion Rendering Layer](https://www.youtube.com/watch?v=wpjEIP41048) by Sebastian Kurfürst, 2017
-* [Neos: from 0 to live in 20 minutes](https://www.youtube.com/watch?v=NCb1-G4KF3g) by Bastian Heist, 2016
+* [Neos Video Tutorial](https://www.youtube.com/watch?v=h3dyEUOeSz8&list=PL6XQ4CH3N4_FW9m8hho9VIvkmNnaGjxda) by Bastian Heist, 2017
 
 ## Talks
+
+1. [2017](#2017---talks)
+
+#### 2017 - Talks
 
 * Neos CMS and SEO ([Video](https://www.youtube.com/watch?v=BOyhHgqGtao)) ([Slides](https://de.slideshare.net/Sebobo/neos-cms-and-seo)) - by Sebastian Helzle, 2017
 
@@ -80,6 +110,16 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 > Neos packages that provides a Google Invisible ReCAPTCHA form element.
 
 **Install:** `composer require gerdemann/recaptcha`
+
+#### [Sitegeist.Magicwand](link/to/package/on/github)
+
+> Automatic local reproduction of deployed Neos CMS installations
+
+**Install:** `composer require sitegeist/magicwand`
+
+**Author(s):** [Martin Ficzel](https://github.com/mficzel), [Wilhelm Behncke](https://github.com/grebaldi)
+
+**Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
 
 #### [Sitegeist.Monocle](https://github.com/sitegeist/Sitegeist.Monocle)
 
