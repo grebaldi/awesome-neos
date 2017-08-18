@@ -111,6 +111,15 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Install:** `composer require gerdemann/recaptcha`
 
+#### [Sitegeist.Magicwand](link/to/package/on/github)
+
+> Automatic local reproduction of deployed Neos CMS installations
+
+**Install:** `composer require sitegeist/magicwand`
+
+**Author(s):** [Martin Ficzel](https://github.com/mficzel), [Wilhelm Behncke](https://github.com/grebaldi)
+
+**Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
 
 ## User Stories - Blog Posts
 
