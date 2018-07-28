@@ -155,6 +155,12 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Install** `composer require flownative/anchorlinks`
 
+#### [Flownative.NeosCachemanagement](https://github.com/flownative/neos-cachemanagement)
+
+> Neos Cache Management Backend Module
+
+**Install** `flownative/neos-cachemanagement`
+
 ## User Stories - Blog Posts
 
 * [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
