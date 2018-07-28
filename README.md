@@ -137,6 +137,12 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Install** `composer require sitegeist/kaleidoscope`
 
+#### [Flownative Aws S3](https://github.com/flownative/flow-aws-s3)
+
+> AWS S3 Adaptor for Neos and Flow
+
+**Install** `composer require flownative/aws-s3`
+
 ## User Stories - Blog Posts
 
 * [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
