@@ -131,6 +131,36 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 
 **Sponsor(s):** [sitegeist neos solutions GmbH](https://sitegeist.de/)
 
+#### [Sitegeist.Kaleidoscope](https://github.com/sitegeist/Sitegeist.Kaleidoscope)
+
+> Responsive Images
+
+**Install** `composer require sitegeist/kaleidoscope`
+
+#### [Flownative Aws S3](https://github.com/flownative/flow-aws-s3)
+
+> AWS S3 Adaptor for Neos and Flow
+
+**Install** `composer require flownative/aws-s3`
+
+#### [Flownative.Neos-trados](https://github.com/flownative/neos-trados)
+
+> Trados Support for Neos
+
+**Install** `composer require flownative/neos-trados`
+
+#### [Flownative.Anchorlinks](https://github.com/flownative/neos-anchorlinks)
+
+> Anchor links for Neos
+
+**Install** `composer require flownative/anchorlinks`
+
+#### [Flownative.NeosCachemanagement](https://github.com/flownative/neos-cachemanagement)
+
+> Neos Cache Management Backend Module
+
+**Install** `flownative/neos-cachemanagement`
+
 ## User Stories - Blog Posts
 
 * [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
