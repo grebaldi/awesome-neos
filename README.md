@@ -80,10 +80,15 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 ## Talks
 
 1. [2017](#2017---talks)
+1. [2018](#2018---talks)
 
 #### 2017 - Talks
 
 * Neos CMS and SEO ([Video](https://www.youtube.com/watch?v=BOyhHgqGtao)) ([Slides](https://de.slideshare.net/Sebobo/neos-cms-and-seo)) - by Sebastian Helzle, 2017
+
+#### 2018 - Talks
+
+* Neos UI Extensibility and Beyond ([Video](https://www.youtube.com/watch?v=ktH8D53nU9I)) - by [Dmitri Pisarev](https://github.com/dimaip) and [Max Strübing](https://github.com/mstruebing), 2018
 
 ## Community Packages
 
