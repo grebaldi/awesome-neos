@@ -31,6 +31,7 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 1. [Talks](#talks)
 1. [Community Packages](#community-packages)
 1. [User Stories - Blog Posts](#user-stories---blog-posts)
+1. [Development Tools](#development-tools)
 
 ## Tutorials
 
@@ -169,6 +170,21 @@ Besides that, it's generally worth to take a look at the [PR section](https://gi
 ## User Stories - Blog Posts
 
 * [Neos is an amazing Content Management System! And you might want to know about it](https://medium.com/@robin.poppenberg/neos-is-an-amazing-content-management-system-and-you-might-want-to-know-about-it-bb35aef51099) by [Robin Poppenberg](https://github.com/webappcreations)
+
+## Development Tools
+
+1. [Editortools](#editortools)
+1. [Shelltools](#shelltools)
+
+#### Editortools
+
+* [Atom Fusion Plugin](https://atom.io/packages/language-typoscript2) by [Wilhelm Behncke](https://github.com/grebaldi)
+* [Visual-Studio-Code Fusion Plugin](https://marketplace.visualstudio.com/items?itemName=networkteam.neos-fusion) by [networkteam GmbH](https://github.com/networkteam)
+* [PHPStorm IDE Features](https://plugins.jetbrains.com/plugin/9362-neos-support) by [Christian Vette](https://github.com/cvette)
+
+#### Shelltools
+
+* [ZSH Auto Completion](https://github.com/sandstorm/oh-my-zsh-flow-plugin) by [Sandstorm Media GmbH](https://sandstorm.de/)
 
 ## License
 
