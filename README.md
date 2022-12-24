@@ -1,5 +1,7 @@
 # Awesome Neos
 
+**ARCHIVED:** This list is no longer maintained. For a comprehensive list of features & third party packages for Neos CMS, take a look at the official feature list: https://www.neos.io/features/feature-list.html
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources and community packages for Neos CMS and Flow Framework
